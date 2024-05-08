@@ -1,0 +1,1 @@
+const Register = asyc(req,res)
